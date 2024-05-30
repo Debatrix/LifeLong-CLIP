@@ -1,0 +1,8 @@
+*.pyc
+tensorboard/*
+results/*
+*.log
+*.err
+.vscode
+data/
+```
